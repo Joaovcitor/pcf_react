@@ -22,5 +22,4 @@ export const Div = styled.div`
   }
 `;
 
-export const Paragrafo = styled.p `
-`
+export const Paragrafo = styled.p``;
